@@ -21,6 +21,7 @@
     justify-content: space-between;
     padding-right: 78px;
 
+
 }
 
 .nav-c2 {
@@ -68,9 +69,10 @@ button:hover {
 }
 
 .page2 {
-    background-color:rgb(233, 232, 232);
+    background-color: rgb(216, 201, 201);
     height: 680px;
     width: 100%;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .b2 {
@@ -92,7 +94,7 @@ button:hover {
 }
 
 .b5 {
-    height: 200px;
+    height: 210px;
     width: 400px;
     margin-left: 200px;
     border-radius: 10px;
@@ -100,9 +102,9 @@ button:hover {
 }
 
 .b4 {
-    color:black;
+    color: black;
     float: inline-end;
-    margin-right: 200px;
+    margin-right: 205px;
     margin-top: 175px;
 
 }
@@ -111,7 +113,7 @@ button:hover {
     font-size: 100px;
     color: white;
     float: inline-end;
-    margin-right: 150px;
+    margin-right: 28px;
     margin-top: -266px;
 
 }
@@ -121,7 +123,7 @@ button:hover {
     font-size: 25px;
     float: inline-end;
     margin-top: -151px;
-    margin-right: 164px;
+    margin-right: 28px;
 }
 
 .b8 {
@@ -130,3 +132,272 @@ button:hover {
     float: right;
     margin-right: 344px;
 }
+
+.n1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.cof1 {
+    background-image: url("./images/ground.jpg");
+    background-repeat: no-repeat;
+    height: 486px;
+    width: 258px;
+    margin-top: 39px;
+    margin-left: 200px;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.cof {
+    background-color: rgb(246, 238, 238);
+    height: 650px;
+    width: 100%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.n2 {
+    font-family: brandon bold;
+    letter-spacing: 1.6px;
+    font-size: 28px;
+    font-weight: 400;
+    color: crimson;
+}
+
+.cof2 {
+    background-image: url("./images/cold\ brew.webp");
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 236px;
+     width: 418px;
+     margin-top: -66px;
+     margin-left: 288px;
+     border-radius: 20px; 
+}
+.cof3 {
+    background-image: url("./images/merchandise.jpeg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 236px;
+     width: 418px;
+     margin-top: 218px;
+     margin-left: 1px;
+     border-radius: 20px;    
+}
+.cof4 {
+    background-image: url("./images/easypur.webp");
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 236px;
+     width: 418px;
+     margin-top: -281px;
+     margin-left: 443px;
+     border-radius: 20px;    
+}
+.cof5 {
+    background-image: url("./images/equipment.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 236px;
+     width: 418px;
+     margin-top: 218px;
+     margin-left: 0px;
+     border-radius: 20px;    
+}
+.page4{
+    background-color: rgb(206, 194, 179);
+    height: 80vh;
+    font-family: 'Roboto Mono', monospace;
+}
+.g2{
+    height: 453px;
+    width: 561px;
+    margin-left: 754px;
+    margin-top: 77px;
+}
+.g3{
+    margin-top: -417px;
+    margin-left: 179px;
+    font-size: 67px;
+}
+.g4{
+    margin-left: 110px;
+    font-size: 21px;
+}
+.g5{
+    color: crimson;
+    font-size: 25px;
+    margin-left: 110px ;
+}
+#w{
+    height: 47px;
+    width: 542px;
+    margin-left: 110px;
+}
+.g6{
+    margin-left: 110px;
+    border-radius: 0;
+    width: 542px;
+    height: 47px;
+
+
+}
+.page5{
+    background-color: rgb(201, 207, 207);
+    height: 45vh;
+    font-family: 'Roboto Mono', monospace;
+}
+.hr {
+    position: relative;
+    max-width: 610px;
+    margin: 18px auto;
+    text-align: center;
+    color: crimson;
+    font-size: 37px;
+}
+
+.hr:before {
+    content: "";
+    height: 2px;
+    width: 220px;
+    background: black;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
+
+.hr:after {
+    content: "";
+    height: 2px;
+    width: 220px;
+    background: black;
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0;
+}
+
+
+.col{
+    position: absolute;
+    /* border: black 1px double; */
+}
+.col-1{
+    padding-top: 35px;
+    left: 57px;
+
+}
+.col-2{
+    left: 258px;
+    padding-top: 35px;
+}
+.col-3{
+    left: 453px;
+    padding-top: 35px;
+}
+.col-4{
+    left: 656px;
+    padding-top: 35px;
+}
+.col-5{
+    left: 877px;
+    padding-top: 35px;
+}
+.col-6{
+    left: 1090px;
+    padding-top: 35px;
+}
+.col-7{
+    left: 1312px;
+    padding-top: 35px;
+}
+#r1{
+    margin-left: 7px;
+}
+#r2{
+    margin-left: 10px;
+}
+#r3{
+margin-left: 9px;
+}
+#r4{
+    margin-left: 13px;
+}
+#r5{
+    margin-left: 11px;
+}
+#r6{
+    margin-left: 14px;
+}
+
+#r7{
+    margin-left: 13px;
+}
+.coll{
+    position: absolute;
+    /* border: black 1px double; */
+}
+.page7{
+    background-color: rgb(201, 207, 207);
+
+    height: 45vh;
+    font-family: 'Roboto Mono', monospace;
+}
+.coll-1{
+    padding-top: 74px;
+    left: 57px;
+
+}
+.coll-2{
+    left: 258px;
+    padding-top: 74px;
+}
+.coll-3{
+    left: 453px;
+    padding-top: 74px;
+}
+.coll-4{
+    left: 656px;
+    padding-top: 74px;
+}
+.coll-5{
+    left: 877px;
+    padding-top: 74px;
+}
+.coll-6{
+    left: 1090px;
+    padding-top: 74px;
+}
+.coll-7{
+    left: 1312px;
+    padding-top: 74px;
+}
+#k1{
+    margin-left: 7px;
+}
+#k2{
+    margin-left: 10px;
+}
+#k3{
+margin-left: 9px;
+}
+#k4{
+    margin-left: 13px;
+}
+#k5{
+    margin-left: 11px;
+}
+#k6{
+    margin-left: 14px;
+}
+
+#k7{
+    margin-left: 13px;
+}
+
+
+
+
+
+
